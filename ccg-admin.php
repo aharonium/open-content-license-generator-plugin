@@ -128,10 +128,10 @@ function ccg_get_banner( $ccg_options, $who_call ) {
 	if ( $ccg_options['show_author'] == TRUE && $author_name != "" ) {
 		if ( $ccg_options['show_author_url'] == TRUE && $author_url != "") 
 			// $author = ' is shared by <a target="_blank" xmlns:cc="http://creativecommons.org/ns#" href="' . $author_url . '" property="cc:attributionName" rel="cc:attributionURL nofollow">'. $author_name.'</a>';
-			$author = ' is shared ';
+			$author = ' is shared by ' . $author_name . ' ';
 		else
 			// $author = ' is shared by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">' . $author_name . '</span>';
-			$author = ' is shared ';
+			$author = ' is shared by ' . $author_name . ' ';
 	}
 
 	//Show Source URL
