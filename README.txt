@@ -5,23 +5,21 @@ Tags: open, content, open content, free, culture, free culture, public domain, c
 Requires at least: 2.8
 Tested up to: 4.3
 Stable tag: 1.4.1
-License: LGPLv3
-License URI: http://www.gnu.org/licenses/lgpl-3.0.html
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-This plugin displays your choice of an Open Content license banner below your posts in WordPress. All metadata included. 
+This plugin displays your choice of an Open Content license below your posts in WordPress. All metadata included. 
 
 == Description ==
 
-Open Content License Generator allows you to choose an Open Content license and include it in your blog posts to protect against misuse or unauthorized use. 
+Open Content License Generator allows you to choose an Open Content license to display under your blog posts indicating under what terms your work may be adopted, adapted, remixed, and redistributed. 
 
-This plugin is a fork of the great Creative Commons Generator by OptimalDevs (Alejandro Galvez and Andy Hernandez) <https://wordpress.org/plugins/creative-commons-generator/>. The main difference in this fork is that it only provides options for the three Open Content compatible licenses authored and maintained by Creative Commons: CC BY, CC BY-SA, and CC 0 (the Public Domain dedication). The plugin also offers an option to select a Fair Use statement as an exceptional case for when copyrighted work is shared. Additionally, rather than relying on "official" Creative Commons license images, this plugin offers clear and neutral license iconography. 
-
-In the future this plug-in may offer a choice of Open Content compatible licenses authored and maintained by organizations besides Creative Commons, for example, the TAPR-OHR and the Free Art license.
+This plugin is a fork of the great Creative Commons Generator (CCG) by OptimalDevs (Alejandro Galvez and Andy Hernandez) <https://wordpress.org/plugins/creative-commons-generator/>. Unlike the CCG, the Open Content License Generator only provides a choice of content licenses compatible with the Open Knowledge Foundations definition of "open" <http://opendefinition.org/>, and the Free Culture Foundation's definition of "free" <http://freedomdefined.org/Definition>. The plugin also offers an option to select a Fair Use statement as an exceptional case for when copyrighted work is shared. In the future this plug-in may offer a choice of Open Content compatible licenses authored and maintained by organizations besides Creative Commons, for example, the Free Art license <http://freedomdefined.org/Licenses#Free_Art_License>.
 
 Features:
 
-* Open, standard license iconography provided by creativecommons.org.
-* Version 4.0 and International jurisdiction license.
+* Open, standard license iconography designed by creativecommons.org.
+* CC BY and CC BY-SA version 4.0 under the International jurisdiction license.
 * Public Domain dedication option
 * Fair Use declaration option
 * General settings for all post published (custom post types included).
