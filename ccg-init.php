@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Open Content License Generator
-Plugin URI:  http://aharon.varady.net/omphalos/2013/03/plugin-for-applying-freelibre-compatible-licenses-from-the-creative-commons-to-wordpress-posts
+Plugin URI:  https://github.com/aharonium/open-content-license-generator-plugin
 Description: Indicate the Open Content compatible license under which your post content is shared.
 Version:     1.4.1
 Author:      Aharon Varady, the Jewish Free-Culture Society

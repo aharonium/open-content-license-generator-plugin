@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Aharon Varady (forking the great work of OptimalDevs, Alejandro Galvez, Andy Hernandez)
+Contributors: Aharon Varady
 Donate link: https://www.razoo.com/us/story/Opensiddurproject
 Tags: open, content, open content, free, culture, free culture, public domain, creative, commons, creative commons, generator, post, attribution, cc, cc license, legal, license, metadata, rights
 Requires at least: 2.8
@@ -14,7 +14,9 @@ This plugin displays your choice of an Open Content license banner below your po
 
 Open Content License Generator allows you to chose an Open Content license and include it in your blog posts to protect against misuse or unauthorized use. 
 
-This plugin is a fork of Creative Commons Generator by OptimalDevs (Alejandro Galvez and Andy Hernandez) <https://wordpress.org/plugins/creative-commons-generator/>. The main difference in this fork is that it only provides options for the three Open Content compatible licenses authored and maintained by Creative Commons: CC BY, CC BY-SA, and CC 0 (the Public Domain dedication). The plugin also offers an option to select a Fair Use statement as an exceptional case for when copyrighted work is shared. Additionally, rather than relying on "official" Creative Commons license images, this plugin offers clear and neutral license iconography.
+This plugin is a fork of the great Creative Commons Generator by OptimalDevs (Alejandro Galvez and Andy Hernandez) <https://wordpress.org/plugins/creative-commons-generator/>. The main difference in this fork is that it only provides options for the three Open Content compatible licenses authored and maintained by Creative Commons: CC BY, CC BY-SA, and CC 0 (the Public Domain dedication). The plugin also offers an option to select a Fair Use statement as an exceptional case for when copyrighted work is shared. Additionally, rather than relying on "official" Creative Commons license images, this plugin offers clear and neutral license iconography. 
+
+In the future this plug-in may offer a choice of Open Content compatible licenses authored and maintained by organizations besides Creative Commons, for example, the TAPR-OHR and the Free Art license.
 
 Features:
 
