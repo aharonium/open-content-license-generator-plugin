@@ -87,8 +87,8 @@ function ccg_get_banner( $ccg_options, $who_call ) {
 	$x = WP_PLUGIN_URL.'/'.str_replace(basename( __FILE__),"",plugin_basename(__FILE__));
 	
 	if ( $ccg_options['mod'] == "fu" ) {
-	$banner = "<a target='_blank' rel='license nofollow' href='https://www.law.cornell.edu/uscode/text/17/107'><img class='alignright' alt='17 U.S. Code  107 - Limitations on exclusive rights: Fair use' style='border-width:0' src='" . $x . "images/" . $image_attributes . ".svg.50x150.png' /></a><br />";
-	$islicensed = ' under the contributor&#39;s <a target="_blank" rel="license nofollow" href="https://www.law.cornell.edu/uscode/text/17/107">Fair Use Right</a> (17 U.S. Code  107 - Limitations on exclusive rights: Fair use), in respect to the copyrighted material included. Any additional work that is not already in the Public Domain is shared under a Creative Commons Attribution 4.0 Unported license.<br />';
+	$banner = "<a target='_blank' rel='license nofollow' href='https://www.law.cornell.edu/uscode/text/17/107'><img class='alignright' alt='17 U.S. Code &sect;107 - Limitations on exclusive rights: Fair use' style='border-width:0' src='" . $x . "images/" . $image_attributes . ".svg.50x150.png' /></a><br />";
+	$islicensed = ' under the contributor&#39;s <a target="_blank" rel="license nofollow" href="https://www.law.cornell.edu/uscode/text/17/107">Fair Use Right</a> (17 U.S. Code &sect;107 - Limitations on exclusive rights: Fair use), in respect to the copyrighted material included. Any additional work that is not already in the Public Domain is shared under a Creative Commons Attribution 4.0 Unported license.<br />';
 	} else {
 	$banner = "<a target='_blank' rel='license nofollow' href='http://creativecommons.org/" . $licensedir . '/' . $attributes . '/' . $version ."/'><img class='alignright' alt=' . $attributes_text . $version . $versiontype .' style='border-width:0' src='" . $x . "images/" . $image_attributes . ".svg.50x150.png' /></a><br />";
 	$islicensed = ' with a <a target="_blank" rel="license nofollow" href="http://creativecommons.org/' . $licensedir . '/' . $attributes . '/' . $version .'/">' . $attributes_text . '&nbsp;' . $version . '&nbsp;' . $versiontype .'</a> ' . $cctype . '.<br />';
@@ -210,7 +210,7 @@ function ccg_get_table( $options ) {
 				</p></label>
 			 </td>
 			 <td>
-				<p><?php _e( 'The contributors exerts their Fair Use Rights under 17 U.S. Code Section 107 - Limitations on exclusive rights: Fair use.', 'ccg-domain' ); ?></p>
+				<p><?php _e( 'The contributors exerts their Fair Use Rights under 17 U.S. Code &sect;107 - Limitations on exclusive rights: Fair use.', 'ccg-domain' ); ?></p>
 			 </td>
 		   </tr>
 		   <tr>
