@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Aharon Varady
 Donate link: https://www.razoo.com/us/story/Opensiddurproject
-Tags: open, content, open content, free, culture, free culture, public domain, creative, commons, creative commons, generator, post, attribution, cc, cc license, legal, license, metadata, rights
+Tags: open, content, open content, free, culture, free culture, public domain, creative, commons, creative commons, generator, post, attribution, cc, cc license, legal, license, metadata, rights, fair use
 Requires at least: 2.8
 Tested up to: 4.3
 Stable tag: 1.4.1
@@ -56,7 +56,7 @@ No, only in posts.
 * Initial fork of Open Content License Generator from Creative Commons Generator
 * Added a Public Domain dedication option
 * Added a Fair Use declaration option
-* Removed all licenses that are not compatible with Open Content licenses (e.g., Creative Commons NC and ND licenses).
+* Removed all licenses that are not compatible with Open Content licenses (e.g., CC's NC & ND options).
 * Replaced old Creative Commons images with plain license iconography.
 * Switching from GPL3 to LGPL3
 
