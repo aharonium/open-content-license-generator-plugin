@@ -56,7 +56,7 @@ No, only in posts.
 * Added a Fair Use declaration option
 * Removed all licenses that are not compatible with Open Content licenses (e.g., CC's NC & ND options).
 * Replaced old Creative Commons images with plain license iconography.
-* Switching from GPL3 to LGPL3
+
 
 = 1.4 =
 * Updated to Creative Commons License 4.0.
