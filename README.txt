@@ -12,7 +12,7 @@ This plugin displays your choice of an Open Content license banner below your po
 
 == Description ==
 
-Open Content License Generator allows you to chose an Open Content license and include it in your blog posts to protect against misuse or unauthorized use. 
+Open Content License Generator allows you to choose an Open Content license and include it in your blog posts to protect against misuse or unauthorized use. 
 
 This plugin is a fork of the great Creative Commons Generator by OptimalDevs (Alejandro Galvez and Andy Hernandez) <https://wordpress.org/plugins/creative-commons-generator/>. The main difference in this fork is that it only provides options for the three Open Content compatible licenses authored and maintained by Creative Commons: CC BY, CC BY-SA, and CC 0 (the Public Domain dedication). The plugin also offers an option to select a Fair Use statement as an exceptional case for when copyrighted work is shared. Additionally, rather than relying on "official" Creative Commons license images, this plugin offers clear and neutral license iconography. 
 
