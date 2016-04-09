@@ -210,7 +210,7 @@ function ccg_get_table( $options ) {
 				</p></label>
 			 </td>
 			 <td>
-				<p><?php _e( 'The contributors exerts their Fair Use Rights under 17 U.S. Code § 107 - Limitations on exclusive rights: Fair use.', 'ccg-domain' ); ?></p>
+				<p><?php _e( 'The contributors exerts their Fair Use Rights under 17 U.S. Code 107 - Limitations on exclusive rights: Fair use.', 'ccg-domain' ); ?></p>
 			 </td>
 		   </tr>
 		   <tr>
