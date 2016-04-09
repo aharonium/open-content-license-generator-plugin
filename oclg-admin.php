@@ -85,10 +85,10 @@ function oclg_get_banner( $oclg_options, $who_call ) {
 	}
 	
 	if ( $oclg_options['mod'] == "fu" ) {
-	$banner = "<a target='_blank' rel='license nofollow' href='https://www.law.cornell.edu/uscode/text/17/107'><img class='alignright' alt='17 U.S. Code  107 - Limitations on exclusive rights: Fair use' style='border-width:0' src='http://aharon.varady.net/omphalos/wp-content/images/" . $image_attributes . ".svg.150x100.png' /></a><br />";
+	$banner = "<a target='_blank' rel='license nofollow' href='https://www.law.cornell.edu/uscode/text/17/107'><img class='alignright' alt='17 U.S. Code  107 - Limitations on exclusive rights: Fair use' style='border-width:0' src='/images/" . $image_attributes . ".svg.150x100.png' /></a><br />";
 	$islicensed = ' under the contributor&#39;s <a target="_blank" rel="license nofollow" href="https://www.law.cornell.edu/uscode/text/17/107">Fair Use Right</a> (17 U.S. Code  107 - Limitations on exclusive rights: Fair use), in respect to the copyrighted material included. Additional material resides in the Public Domain. Original work is shared under a Creative Commons Attribution-ShareAlike 4.0 Unported license.<br />';
 	} else {
-	$banner = "<a target='_blank' rel='license nofollow' href='http://creativecommons.org/" . $licensedir . '/' . $attributes . '/' . $version ."/'><img class='alignright' alt=' . $attributes_text . $version . $versiontype .' style='border-width:0' src='http://aharon.varady.net/omphalos/wp-content/images/" . $image_attributes . ".svg.150x100.png' /></a><br />";
+	$banner = "<a target='_blank' rel='license nofollow' href='http://creativecommons.org/" . $licensedir . '/' . $attributes . '/' . $version ."/'><img class='alignright' alt=' . $attributes_text . $version . $versiontype .' style='border-width:0' src='/images/" . $image_attributes . ".svg.150x100.png' /></a><br />";
 	$islicensed = ' with a <a target="_blank" rel="license nofollow" href="http://creativecommons.org/' . $licensedir . '/' . $attributes . '/' . $version .'/">' . $attributes_text . '&nbsp;' . $version . '&nbsp;' . $versiontype .'</a> ' . $cctype . '.<br />';
 	}
 	
