@@ -3,7 +3,7 @@ Contributors: Aharon Varady
 Donate link: https://www.razoo.com/us/story/Opensiddurproject
 Tags: open, content, open content, free, culture, free culture, public domain, creative, commons, creative commons, generator, post, attribution, cc, cc license, legal, license, metadata, rights, fair use
 Requires at least: 2.8
-Tested up to: 4.3
+Tested up to: 4.4.2
 Stable tag: 1.4.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
